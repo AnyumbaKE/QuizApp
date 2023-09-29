@@ -1,0 +1,29 @@
+{
+    "quiz_questions": [
+      {
+        "id": 1,
+        "instruction_text": "In what year did Tony Blair become British Prime Minister?",
+        "answer_options": ["1987", "2000", "1997", "1990"],
+        "answer": "1997"
+      },
+      {
+        "id": 2,
+        "instruction_text": "How many human players are there on each side in a polo match?",
+        "answer_options": ["seven", "Four", "Eleven", "six"],
+        "answer": "Four"
+      },
+      {
+        "id": 3,
+        "instruction_text": "Which colour pill does Neo swallow in The Matrix?",
+        "answer_options": ["Red", "Blue", "White", "Yellow"],
+        "answer": "Red"
+      },
+      {
+        "id": 4,
+        "instruction_text": "Which Italian city is usually credited as the birthplace of the pizza?",
+        "answer_options": ["Perugia", "Modena", "Naples", "Bologna"],
+        "answer": "Naples"
+      }
+    ]
+  }
+  
